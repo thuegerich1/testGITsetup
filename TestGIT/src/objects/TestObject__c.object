@@ -4,7 +4,7 @@
     <description>This is a generic template for Custom Object.  With this template, you may adjust the default elements and values and add new elements and values.</description>
     <label>TestObject</label>
     <nameField>
-        <label>Custom Object Label Name</label>
+        <label>Custom Object Label Name Change</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>TestObjects</pluralLabel>
